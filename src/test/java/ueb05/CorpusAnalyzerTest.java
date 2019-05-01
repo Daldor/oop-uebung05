@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.util.*;
 
 import static org.junit.jupiter.api.Assertions.*;
-
+//test
 class CorpusAnalyzerTest {
 
 	@Test
